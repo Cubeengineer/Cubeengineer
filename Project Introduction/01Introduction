@@ -1,1 +1,4 @@
+01                                                     Summary
+Using topology optimization technology in the design of compressed structures, the structure type can be selected under reasonable conditions based on the structural stress, and the randomness of parameter input can be used to create new compressed structure types. The two-way progressive optimization method (BESO method) is an important development direction of topology optimization technology. This group will study the topology optimization problem of pressure structures using the two-way progressive structural optimization method.
 
+![Image text](Screenshots/1.png)
