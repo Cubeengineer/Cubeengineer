@@ -23,7 +23,9 @@ Summary:  Using topology optimization technology in the design of compressed str
 
 06————3D printing
 
-![image](https://github.com/Cubeengineer/01_grasshopper/blob/main/image/10.png)
+
+<img src="https://github.com/Cubeengineer/01_grasshopper/blob/main/image/10.png" width="700" height="500" >
+
 
 
 07————Summary and Outlook
