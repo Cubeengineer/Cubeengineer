@@ -25,8 +25,8 @@ Summary:  Using topology optimization technology in the design of compressed str
 
 ![image](https://github.com/Cubeengineer/01_grasshopper/blob/main/image/10.png)
 
-07Summary
-8Summary and Outlook
+
+07————Summary and Outlook
 Through the observation, research and practical application of digital technology, the gap between reality and reality is bridged. Introducing a large number of digital technology into the real world, creating virtual digital furniture that is "different from birth, co-created by man and machine".
 However, there are still shortcomings:
 1. Through the statistics of larger data, more types of products should be generated to reduce accidents and explore whether there are regularities;
