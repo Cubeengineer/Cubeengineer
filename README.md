@@ -18,7 +18,9 @@ Summary:  Using topology optimization technology in the design of compressed str
 ![image](https://github.com/Cubeengineer/01_grasshopper/blob/main/image/8.png)
 
 05————Seat model display
+
 ![image](https://github.com/Cubeengineer/01_grasshopper/blob/main/image/9.png)
 
 06————3D printing
+
 ![image](https://github.com/Cubeengineer/01_grasshopper/blob/main/image/10.png)
